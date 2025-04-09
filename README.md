@@ -1,3 +1,9 @@
+![SQL](https://img.shields.io/badge/SQL-Data%20Cleaning-blue)
+![Python](https://img.shields.io/badge/Python-EDA-green)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+
+
+
 # 🌍 Tech Salary Insights
 
 A full-stack data analyst portfolio project exploring global AI and tech salaries using SQL Server, Python (Jupyter), and Power BI. This project showcases data ingestion, cleaning, SQL querying, statistical analysis, and business intelligence reporting.
