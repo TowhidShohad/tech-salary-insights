@@ -85,7 +85,7 @@ tech-salary-insights:
    ```bash
    git clone https://github.com/your-username/tech-salary-insights.git
    cd tech-salary-insights
-Set up your Python environment and install dependencies:
+Set up Python environment and install dependencies:
 
 bash
 Copy
@@ -96,7 +96,7 @@ Open Jupyter notebooks in the notebooks/ directory for analysis.
 Use Power BI to open the dashboard file from the dashboard/ folder.
 
 🙋‍♂️ About Me
-Hi! I'm [Your Name], a data analyst passionate about solving real-world problems using data.
+Hi! I'm Mohammad Shohad, a data analyst passionate about solving real-world problems using data.
 📧 Email: [towhidshohad2001.com]
 🌐 Portfolio: [towhidshohad.github.io]
 💼 LinkedIn: [linkedin.com/in/MohammadShohad]
