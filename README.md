@@ -83,7 +83,7 @@ tech-salary-insights:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tech-salary-insights.git
+   git clone https://github.com/TowhidShohad/tech-salary-insights.git
    cd tech-salary-insights
 Set up Python environment and install dependencies:
 
